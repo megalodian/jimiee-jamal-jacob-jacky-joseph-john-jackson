@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="=(5kQ}yG/9~,8r/4}`w~" x="0" y="0"></block><block type="device_forever" id="+;wEDiHGr]](c(9Q?[1s" x="205" y="0"><statement name="HANDLER"><block type="music_playable_play" id="]%XXg6)fWU8V,/2/ca`M"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="music_tone_playable" id="l{*.:aWxJ^hn=]n]H(PS"><value name="note"><shadow type="device_note" id="E~za#RFBvDAW+fM(;I$D"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="vrNQHF2:r`t8LFei.2@("><field name="fraction">BeatFraction.Whole</field></shadow></value></shadow></value></block></statement></block><block type="device_build_image" id="NEi?ND+lm,jI|h*%J=rE" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="46" y="69"><field name="LEDS">`
+        . # . # # 
+        . # . . . 
+        . # . . . 
+        . . # . . 
+        . . . . .
+        `</field></block></xml>
